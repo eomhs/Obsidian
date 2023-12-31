@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ㅇ.md",
+                "file": "인간관계론.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ㅇ.md",
+                "file": "인간관계론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ㅇ.md",
+                "file": "인간관계론.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ㅇ.md"
+                "file": "인간관계론.md"
               }
             }
           }
@@ -148,6 +148,6 @@
   },
   "active": "540f46c0286cd684",
   "lastOpenFiles": [
-    "ㅇ.md"
+    "인간관계론.md"
   ]
 }
