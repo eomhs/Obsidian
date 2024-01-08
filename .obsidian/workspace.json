@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55c953d5cdaae953",
+        "id": "48c1d163cd8e34ee",
         "type": "tabs",
         "children": [
           {
-            "id": "540f46c0286cd684",
+            "id": "b028d8097ca2bbb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인간관계론.md",
+                "file": "행복의 기원.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인간관계론.md",
+                "file": "행복의 기원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인간관계론.md",
+                "file": "행복의 기원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인간관계론.md"
+                "file": "행복의 기원.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "540f46c0286cd684",
+  "active": "b028d8097ca2bbb1",
   "lastOpenFiles": [
-    "인간관계론.md"
+    "인간관계론.md",
+    "행복의 기원.md",
+    "무제 폴더"
   ]
 }
