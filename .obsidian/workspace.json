@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f6f4b94ba3750f",
+        "id": "f2df8bc8f1ace950",
         "type": "tabs",
         "children": [
           {
-            "id": "6e643938730b639b",
+            "id": "ee59b4bbba618256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인간관계론.md",
+                "file": "행복의 기원.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인간관계론.md",
+                "file": "행복의 기원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인간관계론.md",
+                "file": "행복의 기원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인간관계론.md"
+                "file": "행복의 기원.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6e643938730b639b",
+  "active": "ee59b4bbba618256",
   "lastOpenFiles": [
+    "인간관계론.md",
     "행복의 기원.md",
-    "conflict-files-obsidian-git.md",
-    "인간관계론.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
