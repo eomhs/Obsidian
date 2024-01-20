@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f0288d5c4b40fb",
+        "id": "d2f6f4b94ba3750f",
         "type": "tabs",
         "children": [
           {
-            "id": "412d03ae38cba5cf",
+            "id": "6e643938730b639b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "행복의 기원.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "957209e87445b072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,8 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ade748ca0dec022a",
+  "active": "957209e87445b072",
   "lastOpenFiles": [
+    "행복의 기원.md",
+    "conflict-files-obsidian-git.md",
     "인간관계론.md"
   ]
 }
