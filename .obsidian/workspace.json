@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48c1d163cd8e34ee",
+        "id": "f2df8bc8f1ace950",
         "type": "tabs",
         "children": [
           {
-            "id": "b028d8097ca2bbb1",
+            "id": "ee59b4bbba618256",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b028d8097ca2bbb1",
+  "active": "ee59b4bbba618256",
   "lastOpenFiles": [
     "인간관계론.md",
     "행복의 기원.md",
-    "무제 폴더"
+    "conflict-files-obsidian-git.md"
   ]
 }
